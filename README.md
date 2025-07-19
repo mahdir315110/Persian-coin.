@@ -1,1 +1,1 @@
-# Persian-coin.
+# Persian-coin
